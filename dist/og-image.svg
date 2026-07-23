@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1d1610"/>
+      <stop offset="1" stop-color="#0f0b07"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.3" stop-color="#f4ece0"/>
+      <stop offset="1" stop-color="#d8a956"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="80" y="238" width="64" height="3" fill="#d8a956"/>
+  <text x="78" y="320" font-family="Georgia, serif" font-size="96" fill="url(#name)">Ujjwal Goyal</text>
+  <text x="84" y="380" font-family="Inter, Arial, sans-serif" font-size="28" letter-spacing="6" fill="#d8a956">ENGINEERING LEADER · ARTIST · MUSICIAN · EXPLORER</text>
+  <text x="84" y="436" font-family="Inter, Arial, sans-serif" font-size="24" fill="#cdbfa8">Building systems, songs, paintings &amp; journeys.</text>
+</svg>
